@@ -1,0 +1,20 @@
+#output {
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  color: wheat;
+}
+
+input[type=text] {
+  background-color: slategrey;
+  color: white;
+}
+
+form {
+  margin: 5px;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
